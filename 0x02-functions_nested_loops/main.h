@@ -1,2 +1,1 @@
-print_alphabet();
-return (0);
+int _putchar(char c);
